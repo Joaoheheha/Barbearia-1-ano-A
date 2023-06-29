@@ -36,7 +36,7 @@ nav li {
     font-size: 22px;
     text-decoration: none;
   }
-  
+
   nav a:hover {
    color:#c78c19;
    text-decoration: underline;
@@ -58,4 +58,15 @@ nav li {
     background: #fefefe;
     width: 940px;
     margin: 0 auto;
+  }
+  .principal p {
+    margin: 0 0 1em;
+  }
+
+  .principal strong {
+    font: bold;
+  }
+
+  .principal em {
+    font-style: italic;
   }
