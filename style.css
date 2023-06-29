@@ -8,7 +8,7 @@ body{
 }
 
  header {
-    background: greenyellow;
+    background: #808080 ;
     padding: 20px 0;
 }
 
@@ -36,7 +36,26 @@ nav li {
     font-size: 22px;
     text-decoration: none;
   }
+  
   nav a:hover {
    color:#c78c19;
    text-decoration: underline;
+  }
+
+  .banner{
+     width: 100%;
+  }
+
+  .titulo-principal {
+    text-align: center;
+    font-size: 2em;
+    margin: 0 0 1em;
+    clear: left;
+  }
+
+  .principal {
+    padding: 3em 0;
+    background: #fefefe;
+    width: 940px;
+    margin: 0 auto;
   }
