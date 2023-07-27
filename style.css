@@ -88,8 +88,8 @@ nav li {
   }
 
   .mapa p {
-    margin: 0 0 2em;
-    text-align: center;
+     margin: 0 0 2em;
+     text-align: center;
   }
 
   .beneficios{
@@ -101,3 +101,34 @@ nav li {
      width: 640px;
      margin: 0 auto;
   }
+
+  .lista-beneficios {
+     width: 40%;
+     display: inline-block;
+     vertical-align: top;
+  }
+
+   .itens {
+     line-height: 1.5;
+   }
+
+   .itens:first-child {
+     font-weight: bold;
+   }
+
+   .itens::before {
+     content: "☆";
+   }
+
+   .image-beneficios {
+    width: 60%;
+    opacity: 1;
+    transition: 400ms;
+   box-shadow: 10px 10px 10px 0 #000000;
+  }
+
+  .image-beneficios:hover {[
+   opacity: 0.3;
+  ]}
+
+  
