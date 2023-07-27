@@ -37,8 +37,8 @@ nav li {
     text-decoration: none;
   }
 
-  nav a:hover {
-   color:#c78c19;
+   nav a:hover {
+    color:#c78c19;
    text-decoration: underline;
   }
 
@@ -46,7 +46,7 @@ nav li {
      width: 100%;
   }
 
-  .titulo-principal {
+   .titulo-principal {
     text-align: center;
     font-size: 2em;
     margin: 0 0 1em;
@@ -59,7 +59,7 @@ nav li {
     width: 940px;
     margin: 0 auto;
   }
-  .principal p {
+   .principal p {
     margin: 0 0 1em;
   }
 
@@ -90,4 +90,14 @@ nav li {
   .mapa p {
     margin: 0 0 2em;
     text-align: center;
+  }
+
+  .beneficios{
+     padding: 3em  0;
+     background: #888888;
+  }
+
+  .conteudo-beneficios {
+     width: 640px;
+     margin: 0 auto;
   }
