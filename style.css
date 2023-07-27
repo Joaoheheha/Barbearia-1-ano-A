@@ -134,6 +134,7 @@ nav li {
    opacity: 0.3;
   ]}
 
+<<<<<<< HEAD
   .video {
     width: 360px;
     margin: 2em auto;
@@ -146,19 +147,17 @@ nav li {
     .mapa-conteudo
     .video {
       widht: auto;
-    }
-      
+    }   
     
    h1 {
       text-align: center;
   }
-  
-  nav {
-    position: static;
+
+  .video {
+    width: 360px;
+    margin: 2em auto;
   }
 
   .lista-beneficios, .image-beneficios {
-    
   }
-   
-  }
+}
