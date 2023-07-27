@@ -101,6 +101,9 @@ nav li {
      width: 640px;
      margin: 0 auto;
   }
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 
   .lista-beneficios {
      width: 40%;
@@ -131,4 +134,31 @@ nav li {
    opacity: 0.3;
   ]}
 
+  .video {
+    width: 360px;
+    margin: 2em auto;
+  }
+
+  @media screen (max-width: 480px) {
+    .caixa
+    .principal
+    .conteudo-beneficios
+    .mapa-conteudo
+    .video {
+      widht: auto;
+    }
+      
+    
+   h1 {
+      text-align: center;
+  }
   
+  nav {
+    position: static;
+  }
+
+  .lista-beneficios, .image-beneficios {
+    
+  }
+   
+  }
